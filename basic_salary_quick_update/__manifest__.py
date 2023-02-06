@@ -1,16 +1,16 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Basic Salary Quick Update",
+    'name': "Basic Mass Quick Update",
 
     'summary': """
-       Basic Salary Quick Update""",
+       Basic Salary Mass Update""",
 
     'description': """
-        Basic Salary Quick Update, Update Contracts Wage Quickly, Employees Update Basic salary
+        Basic Salary Mass Update, Update Contracts Wage Quickly, Employees Update Basic salary
     """,
 
     'author': "Kaizen Principles",
-    'website': "http://www.kaizeae.com",
+    'website': "https://erp-software.odoo-saudi.com/discount/",
 
     'category': 'HR',
     'version': '.1',

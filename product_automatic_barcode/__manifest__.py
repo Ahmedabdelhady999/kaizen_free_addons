@@ -12,7 +12,7 @@
 
 
     'author': "Kaizen Principles",
-    'website': "http://www.kaizeae.com",
+    'website': "https://erp-software.odoo-saudi.com/discount/",
 
     'category': 'Inventory',
     'version': '.1',
