@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Basic Mass Quick Update",
+    'name': "Basic Salary Mass Update",
 
     'summary': """
        Basic Salary Mass Update""",
