@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Invetort Valuation PDF Report",
+    'name': "Inventory Valuation PDF Report",
 
     'summary': """
         Inventory Valuation Report pdf""",
